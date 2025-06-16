@@ -1,11 +1,11 @@
-# Ecxom : .NET  microservices application #
+# Excom : .NET  microservices application #
 
-Ecxom is a containerized application consisting of several microservices.
+Excom is a containerized application consisting of several microservices.
 
 Development is still in progress. 
 
 
-## Ecxom Microservices Architecture Overview
+## Excom Microservices Architecture Overview
 ![microserviceArchitectureOverview](img/microserviceArchitectureOverview.png)
  
 

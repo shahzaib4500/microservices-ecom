@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\demo\\SuuCat-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8378C3-9E5A-4F1D-A9D2-F71ACCBBB3FF}|docker-compose.dcproj|d:\\demo\\suucat-master\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EA8378C3-9E5A-4F1D-A9D2-F71ACCBBB3FF}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB37DDF-0022-4F8B-A225-451D3D065218}|src\\WebApps\\HealthCheck\\HealthCheck.csproj|d:\\demo\\suucat-master\\src\\webapps\\healthcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB37DDF-0022-4F8B-A225-451D3D065218}|src\\WebApps\\HealthCheck\\HealthCheck.csproj|solutionrelative:src\\webapps\\healthcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB37DDF-0022-4F8B-A225-451D3D065218}|src\\WebApps\\HealthCheck\\HealthCheck.csproj|d:\\demo\\suucat-master\\src\\webapps\\healthcheck\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAB37DDF-0022-4F8B-A225-451D3D065218}|src\\WebApps\\HealthCheck\\HealthCheck.csproj|solutionrelative:src\\webapps\\healthcheck\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB37DDF-0022-4F8B-A225-451D3D065218}|src\\WebApps\\HealthCheck\\HealthCheck.csproj|d:\\demo\\suucat-master\\src\\webapps\\healthcheck\\healthcheck.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAB37DDF-0022-4F8B-A225-451D3D065218}|src\\WebApps\\HealthCheck\\HealthCheck.csproj|solutionrelative:src\\webapps\\healthcheck\\healthcheck.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E0427F-4940-4D1D-9EB8-5B68051AE1D8}|src\\BuildingBlocks\\Tracing\\Tracing.csproj|d:\\demo\\suucat-master\\src\\buildingblocks\\tracing\\opentelemetryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E0427F-4940-4D1D-9EB8-5B68051AE1D8}|src\\BuildingBlocks\\Tracing\\Tracing.csproj|solutionrelative:src\\buildingblocks\\tracing\\opentelemetryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\demo\\SuuCat-master\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\demo\\SuuCat-master\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T12:12:47.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\demo\\SuuCat-master\\src\\WebApps\\HealthCheck\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebApps\\HealthCheck\\Program.cs",
+              "ToolTip": "D:\\demo\\SuuCat-master\\src\\WebApps\\HealthCheck\\Program.cs",
+              "RelativeToolTip": "src\\WebApps\\HealthCheck\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:12:37.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\demo\\SuuCat-master\\src\\WebApps\\HealthCheck\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\WebApps\\HealthCheck\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\demo\\SuuCat-master\\src\\WebApps\\HealthCheck\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "src\\WebApps\\HealthCheck\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T12:12:27.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthCheck",
+              "DocumentMoniker": "D:\\demo\\SuuCat-master\\src\\WebApps\\HealthCheck\\HealthCheck.csproj",
+              "RelativeDocumentMoniker": "src\\WebApps\\HealthCheck\\HealthCheck.csproj",
+              "ToolTip": "D:\\demo\\SuuCat-master\\src\\WebApps\\HealthCheck\\HealthCheck.csproj",
+              "RelativeToolTip": "src\\WebApps\\HealthCheck\\HealthCheck.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T12:12:06.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenTelemetryExtensions.cs",
+              "DocumentMoniker": "D:\\demo\\SuuCat-master\\src\\BuildingBlocks\\Tracing\\OpenTelemetryExtensions.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Tracing\\OpenTelemetryExtensions.cs",
+              "ToolTip": "D:\\demo\\SuuCat-master\\src\\BuildingBlocks\\Tracing\\OpenTelemetryExtensions.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Tracing\\OpenTelemetryExtensions.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwCkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:36:44.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
