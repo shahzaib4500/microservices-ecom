@@ -2,9 +2,6 @@
 
 Excom is a containerized application consisting of several microservices.
 
-Development is still in progress. 
-
-
 ## Excom Microservices Architecture Overview
 ![microserviceArchitectureOverview](img/microserviceArchitectureOverview.png)
  
